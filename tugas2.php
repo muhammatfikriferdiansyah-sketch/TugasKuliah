@@ -1,64 +1,46 @@
-!DOCTYPE html>
-<html lang="id">
+<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eksplorasi Wisata & Kuliner Semarang</title>
+    <title>Wisata Dan Kuliner Jepang</title>
 </head>
 <body>
-
-    <!-- Ketentuan 4: Gunakan Div sebagai wadah konten -->
     <div id="main-container">
-        
-        <!-- Ketentuan 1: Judul Utama -->
-        <h1>Destinasi Wisata & Kuliner Semarang</h1>
-        
-        <!-- Ketentuan 3: Deskripsi Singkat Mengenai Tempat Yang Dipilih -->
-        <p>
-            Semarang merupakan kota pesisir yang kaya akan sejarah, arsitektur megah, serta ragam kuliner khas yang sangat menggugah selera. Dari bangunan bersejarah peninggalan era kolonial hingga kelezatan hidangan legendaris, Semarang menawarkan pengalaman unik bagi setiap wisatawan yang berkunjung.
+        <h1>Destinasi Wisata & Kuliner Jepang</h1>
+                <p>
+            Jepang merupakan negara dengan budaya yang kaya dan beragam, menawarkan pengalaman wisata yang unik dan kuliner lezat yang tidak terlupakan. 
         </p>
+  <p>
+            Tidak lupa dengan keindahan alamnya yang menakjubkan, Jepang menjadi destinasi favorit bagi wisatawan dari seluruh dunia. Berikut adalah beberapa tempat wisata dan kuliner khas Jepang yang wajib dikunjungi.
 
+        </p>
         <hr>
-
-        <!-- Wadah Konten untuk Tempat 1 -->
         <div class="content-box">
-            <h2>1. Lawang Sewu</h2>
+            <h2>1. Ramen</h2>
             
-            <!-- Ketentuan 2 & 5: Menampilkan gambar dari folder images dengan atribut lengkap (src, alt, width, height, title) -->
-            <img src="images/lawang_sewu.jpg" alt="Foto Bangunan Bersejarah Lawang Sewu" width="600" height="400" title="Lawang Sewu Semarang">
+            <img src="images/ramen.jepang.jpeg" alt="Mangkuk Ramen Jepang" width="600" height="400" title="Ramen Jepang">            
+            <p>
+                Ramen adalah hidangan mi kuah yang sangat populer di Jepang. Hidangan ini terdiri dari mi, kuah kaldu, dan berbagai topping seperti telur rebus, daging babi, dan sayuran. Setiap daerah di Jepang memiliki versi ramen mereka sendiri yang unik.
+           </p>
+        </div>
+        <hr>
+        <div class="content-box">
+            <h2>2. Gunung Fuji</h2>
+            <img src="images/fuji.jpg" alt="Pemandangan Gunung Fuji" width="600" height="400" title="Gunung Fuji">
             
             <p>
-                Lawang Sewu adalah ikon bersejarah Semarang yang terkenal dengan arsitektur megah khas era kolonial dan jendela-jendela besarnya. Tempat ini menyajikan museum sejarah kereta api Indonesia dan spot foto yang sangat memukau.
+                Gunung Fuji adalah gunung tertinggi di Jepang dan merupakan ikon negara ini. Terletak di pulau Honshu, gunung ini menawarkan pemandangan yang menakjubkan dan menjadi tujuan populer bagi pendaki dan fotografer. Pemandangan matahari terbit dari puncak Gunung Fuji adalah pengalaman yang tak terlupakan.
             </p>
         </div>
-
         <hr>
-
-        <!-- Wadah Konten untuk Tempat 2 -->
         <div class="content-box">
-            <h2>2. Kota Lama Semarang</h2>
+            <h2>3. Sushi</h2>
             
-            <img src="images/kota_lama.jpg" alt="Suasana Kawasan Kota Lama Semarang" width="600" height="400" title="Kota Lama Semarang">
-            
+            <img src="images/sushi.jpg" alt="Sushi Jepang" width="600" height="400" title="Sushi Jepang">
             <p>
-                Kawasan Kota Lama menyajikan suasana klasik Eropa dengan deretan gedung tua yang masih terawat rapi, seperti Gereja Blenduk. Tempat ini sangat cocok untuk jalan-jalan santai sambil menikmati suasana malam dan berbagai kafe estetis.
+                Sushi adalah hidangan ikan yang disajikan dengan nasi yang telah diberi cuka gula. Hidangan ini terkenal di seluruh dunia dan merupakan salah satu kuliner khas Jepang yang paling populer. Sushi dapat disajikan dalam berbagai bentuk, seperti makanan mentah, dimasak, atau dalam bentuk roll.
             </p>
         </div>
-
-        <hr>
-
-        <!-- Wadah Konten untuk Tempat 3 -->
-        <div class="content-box">
-            <h2>3. Lumpia Semarang</h2>
-            
-            <img src="images/lumpia_semarang.jpg" alt="Kuliner Khas Lumpia Semarang" width="600" height="400" title="Lumpia Khas Semarang">
-            
-            <p>
-                Lumpia merupakan kuliner khas Semarang yang paling populer. Berisi rebung, telur, dan daging ayam atau udang, hidangan gurih bernuansa manis ini disajikan hangat bersama saus kental khas, cabai rawit, dan daun bawang.
-            </p>
-        </div>
-
     </div>
-
 </body>
 </html>
