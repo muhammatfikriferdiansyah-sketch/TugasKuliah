@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Website tugas 1</title>
 </head>
 <body>
-    <h1>Selamat Datang di Website Saya</h1>
+    <h1>Website Tugas 1</h1>
     <hr> 
     <h2>Data Diri</h2>
     
