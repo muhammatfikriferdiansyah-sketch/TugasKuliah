@@ -49,7 +49,7 @@
 
     <!-- b. Gambar dengan <figure> -->
     <figure>
-        <img src="foto-siswa.jpg" alt="Foto Siswa" width="300">
+        <img src="fotosiswa.jpg" alt="Foto Siswa" width="300">
         <figcaption>Gambar 1. Profil Kegiatan Mahasiswa di Kampus</figcaption>
     </figure>
 
