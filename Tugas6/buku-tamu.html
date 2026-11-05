@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mini Website - Buku Tamu</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; }
+        nav { margin-bottom: 20px; }
+        nav a { margin-right: 15px; text-decoration: none; font-weight: bold; }
+        form { width: 300px; }
+        div { margin-bottom: 10px; }
+        input, textarea { width: 100%; padding: 5px; }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">Home</a> | 
+        <a href="buku-tamu.html">Form Buku Tamu</a>
+    </nav>
+
+    <h1>Form Buku Tamu</h1>
+
+    <form action="#" method="post">
+        <div>
+            <label>Nama:</label>
+            <input type="text" name="nama" required>
+        </div>
+        
+        <div>
+            <label>Email:</label>
+            <input type="email" name="email" required>
+        </div>
+
+        <div>
+            <label>Pesan / Keperluan:</label>
+            <textarea name="pesan" rows="4" required></textarea>
+        </div>
+
+        <button type="submit">Kirim</button>
+    </form>
+
+</body>
+</html>
